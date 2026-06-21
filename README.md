@@ -24,4 +24,4 @@ This project was developed as a JavaScript web development project. It demonstra
 
 ## Live Demo
 
-Netlify link will be added here.
+https://hilarious-moonbeam-243cf4.netlify.app
