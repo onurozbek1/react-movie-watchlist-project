@@ -1,16 +1,16 @@
 # Movie Watchlist App
 
-This project is a simple movie watchlist application developed with React.
+Bu proje, React kullanılarak geliştirilmiş basit bir film takip uygulamasıdır.
 
-## Features
+## Özellikler
 
-- Add a new movie
-- List saved movies
-- Update movie information
-- Delete movies
-- Save data using LocalStorage
+- Yeni film ekleme
+- Eklenen filmleri listeleme
+- Film bilgilerini güncelleme
+- Film silme
+- Verileri LocalStorage ile tarayıcıda saklama
 
-## Technologies Used
+## Kullanılan Teknolojiler
 
 - React
 - JavaScript
@@ -18,10 +18,14 @@ This project is a simple movie watchlist application developed with React.
 - LocalStorage
 - Vite
 
-## Project Purpose
+## Projenin Amacı
 
-This project was developed as a JavaScript web development project. It demonstrates basic CRUD operations using a modern JavaScript library and stores data locally in the browser.
+Bu proje, JavaScript web geliştirme eğitimi kapsamında hazırlanmıştır. Projede modern bir JavaScript kütüphanesi olan React kullanılarak temel CRUD işlemleri uygulanmıştır. Kullanıcılar film ekleyebilir, listeleyebilir, güncelleyebilir ve silebilir. Veriler LocalStorage üzerinde saklandığı için sayfa yenilense bile bilgiler kaybolmaz.
 
-## Live Demo
+## Canlı Demo
 
-https://hilarious-moonbeam-243cf4.netlify.app
+[Canlı Projeyi Görüntüle](https://hilarious-moonbeam-243cf4.netlify.app)
+
+## GitHub Repository
+
+[GitHub Proje Linki](https://github.com/onurozbek1/react-movie-watchlist-project)
